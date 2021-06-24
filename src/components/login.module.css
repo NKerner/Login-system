@@ -1,0 +1,7 @@
+.loginBox{
+    height: 10vh;
+    width: 10vw;
+    display: flex;
+    background-color: aquamarine;
+    z-index: 100000000;
+}
